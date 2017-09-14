@@ -8,3 +8,4 @@
 * [vue实例与生命周期](https://github.com/whkl/blog/issues/7)
 * [ES6 常用新特性](https://github.com/whkl/blog/issues/8)
 * [css优雅降级和渐进增强](https://github.com/whkl/blog/issues/9)
+* [js的三种数据存储sessionStorage 、localStorage 和 cookie 之间的异同点](https://github.com/whkl/blog/issues/10)
