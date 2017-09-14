@@ -6,3 +6,5 @@
 * [js常用的处理字符串的方法](https://github.com/whkl/blog/issues/5)
 * [对js设计模式的理解](https://github.com/whkl/blog/issues/6)
 * [vue实例与生命周期](https://github.com/whkl/blog/issues/7)
+* [ES6 常用新特性](https://github.com/whkl/blog/issues/8)
+* [css优雅降级和渐进增强](https://github.com/whkl/blog/issues/9)
