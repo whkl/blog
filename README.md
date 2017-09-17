@@ -9,3 +9,8 @@
 * [ES6 常用新特性](https://github.com/whkl/blog/issues/8)
 * [css优雅降级和渐进增强](https://github.com/whkl/blog/issues/9)
 * [js的三种数据存储sessionStorage 、localStorage 和 cookie 之间的异同点](https://github.com/whkl/blog/issues/10)
+* [a标签的link、visited、hover、active的顺序](https://github.com/whkl/blog/issues/11)
+* [有一个大于0小于10的整型数组，将其中相加等于10的删除，返回结果](https://github.com/whkl/blog/issues/12)
+* [关于随便一个数（整数部分）按三位分割的题目](https://github.com/whkl/blog/issues/13)
+* [对apply和call,bind()的理解](https://github.com/whkl/blog/issues/14)
+* [理解js的闭包](https://github.com/whkl/blog/issues/15)
