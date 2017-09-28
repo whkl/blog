@@ -14,3 +14,4 @@
 * [关于随便一个数（整数部分）按三位分割的题目](https://github.com/whkl/blog/issues/13)
 * [对apply和call,bind()的理解](https://github.com/whkl/blog/issues/14)
 * [理解js的闭包](https://github.com/whkl/blog/issues/15)
+* [项目中常用的正则](https://github.com/whkl/blog/issues/16)
