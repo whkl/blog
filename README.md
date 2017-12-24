@@ -15,3 +15,8 @@
 * [对apply和call,bind()的理解](https://github.com/whkl/blog/issues/14)
 * [理解js的闭包](https://github.com/whkl/blog/issues/15)
 * [项目中常用的正则](https://github.com/whkl/blog/issues/16)
+* [关于前端生成uuid](https://github.com/whkl/blog/issues/17)
+* [git 工作流程](https://github.com/whkl/blog/issues/18)
+* [git快捷键大全](https://github.com/whkl/blog/issues/19)
+* [vscode 的配置](https://github.com/whkl/blog/issues/20)
+* [不用ES6 不用lodash的情况下数组去重](https://github.com/whkl/blog/issues/21)
